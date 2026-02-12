@@ -1,2 +1,1 @@
-# Monthaly-electicity-bill-calculator
-This calculator  can calculate your monthly electricity by some input data like daily use unit charge energy consumption  etc...
+This is a simple C program to calculate monthly electricity bill of home appliances. In this program, user enters number of appliances, power consumption in watts, daily usage in hours, number of days in month and electricity charge per unit. The program calculates electricity cost for tube light, fans, TV, refrigerator, washing machine and heater. After calculating individual cost of each appliance, it adds all values and shows the total electricity bill. I created this project to practice C programming and understand how electricity bill calculation works in real life.
